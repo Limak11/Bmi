@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BMI Calculator v1.0</string>
+    <string name="changeM">Change to kg/m</string>
+    <string name="changeCM">Change to kg/cm</string>
+    <string name="heightM">Enter your height [m]: </string>
+    <string name="heightCM"> Enter your height [cm]: "</string>
+    <string name="weightKG">Enter your weight [kg]: </string>
+    <string name="confirm">Confirm </string>
+    <string name="bmi1">Starvation</string>
+    <string name="bmi2">Underweight</string>
+    <string name="bmi3">Healthy weight</string>
+    <string name="bmi4">Overweight</string>
+    <string name="bmi5">Obesity</string>
+    <string name="welcome">Welcome</string>
+    <string name="error">Incorrect data please try again</string>
+    <string name="empty">This place cant be empty</string>
+    <string name="num">This is not a number</string>
+    <string name="result">Your bmi: </string>
+    <string name="author">Author</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="name">Kamil Kolesiński</string>
+    <string name="facebook_app_id">274480006334937</string>
+
+
+
+</resources>

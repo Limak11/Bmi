@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <!-- Settings, should always be in the overflow -->
+    <item
+        android:id="@+id/a_More"
+        android:icon="@drawable/ic_action_name"
+        app:showAsAction="always"
+        android:title="More">
+        <menu>
+
+        <item android:id="@+id/action_settings1"
+        android:title="@string/author"
+        app:showAsAction="never"/>
+         <item android:id="@+id/action_settings2"
+        android:title="@string/share"
+        app:showAsAction="never"/>
+         <item android:id="@+id/action_settings3"
+        android:title="@string/save"
+        app:showAsAction="never"/>
+        </menu>
+         </item>
+</menu>
